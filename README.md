@@ -1,5 +1,4 @@
 # OskiBot
-
 A chatbot application desgined specifically for UC Berkely University. So it can provide all the recent and academic information quickly to the students, professors and any individual.
 Techstack Used **Langchain, RAG, AWS Bedrock, AWS Cloud Catalyst, BeautifulSoup, Flask, Amazon EC2, Amazon S3**.
 
