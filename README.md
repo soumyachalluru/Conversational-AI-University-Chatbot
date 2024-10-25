@@ -8,15 +8,15 @@ Techstack Used **Langchain, RAG, AWS Bedrock, AWS Cloud Catalyst, BeautifulSoup,
 + Feed these vector embedding to **Claude Sonnet 3** model along with the query to get the relevant response.
 
 ## Architecture Flow
-![Architecture Flow Diagram](https://github.com/soumyachalluru/Conversational-AI-University-Chatbot/flow-diag.jpg)
+![Architecture Flow Diagram](https://github.com/soumyachalluru/Conversational-AI-University-Chatbot/blob/main/flow-diag.jpg)
 
 ## AWS Bedrock RAG vs ChatGPT 4o 
 
 ### Chat GPT 4o output
-![Chat GPT Output](https://github.com/soumyachalluru/Conversational-AI-University-Chatbot/demos/Chatgpt-Output-demo1.jpg)
+![Chat GPT Output](https://github.com/soumyachalluru/Conversational-AI-University-Chatbot/blob/main/demos/Chatgpt-Output-demo1.jpg)
 
 ### OskiBot output
-![Oski Chatbot Output](https://github.com/soumyachalluru/Conversational-AI-University-Chatbot/demos/OskiBot-Demo1.jpeg)
+![Oski Chatbot Output](https://github.com/soumyachalluru/Conversational-AI-University-Chatbot/blob/main/demos/OskiBot-Demo1.jpeg)
 
 From the queries it can be observed that since chatgpt does not have recent knowledge about UC Berkely, it failed to answer the queries, whereas the Oski Bot was able to retrieve relevant information from the knowledge base provided.
 
