@@ -7,9 +7,6 @@ Techstack Used **Langchain, RAG, AWS Bedrock, AWS Cloud Catalyst, BeautifulSoup,
 + Created Vector Embeddings using **Titan Text Embeddings v2** with a vector size of 1024.
 + Feed these vector embedding to **Claude Sonnet 3** model along with the query to get the relevant response.
 
-## Architecture Flow
-![Architecture Flow Diagram](https://github.com/soumyachalluru/Conversational-AI-University-Chatbot/blob/main/flow-diag.jpg)
-
 ## AWS Bedrock RAG vs ChatGPT 4o 
 
 ### Chat GPT 4o output
