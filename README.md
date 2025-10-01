@@ -6,6 +6,7 @@ Techstack Used **Langchain, RAG, AWS Bedrock, AWS Cloud Catalyst, BeautifulSoup,
 + Created crawler to scrape the university website to get public information to create a knowledge base.
 + Created Vector Embeddings using **Titan Text Embeddings v2** with a vector size of 1024.
 + Feed these vector embedding to **Claude Sonnet 3** model along with the query to get the relevant response.
++ Multi-agent upgrade with memory recall and better decision making
 
 ## AWS Bedrock RAG vs ChatGPT 4o 
 
